@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "afterDelay",
+    "scm.alwaysShowActions": true,
+    "scm.alwaysShowRepositories": true,
+    "scm.providerCountBadge": "visible",
+    "scm.workingSets.enabled": true,
+    "git.enabled": true
+}
